@@ -1,4 +1,4 @@
-billingEndpoint: http://billing-service
+billingEndpoint: http://billing1-service
 
 security:
   basic:
