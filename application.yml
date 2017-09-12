@@ -1,4 +1,4 @@
-billingEndpoint: http://billing1-service
+#billingEndpoint: http://billing1-service
 
 security:
   basic:
@@ -11,4 +11,4 @@ management:
 logging:
   level:
     io:
-      pivotal: INFO
+      pivotal: DEBUG
